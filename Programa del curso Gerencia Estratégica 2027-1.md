@@ -23,7 +23,7 @@ Ingeniería Financiera · Universidad de Medellín · Profesor: Jorge Andrés Po
 ### Unidad 1. Estrategia y liderazgo estratégico (clases 1–2)
 
 - Clase 1: presentación del curso, plan de evaluación, proyecto de aula y acuerdo de uso responsable de la IA; conformación de equipos y asignación de empresas. Apertura: ¿qué es estrategia?
-- Escuelas de estrategia; estrategia deliberada y emergente.
+- Clase 2: contenido de la estrategia (organización industrial y recursos) y proceso (estrategia deliberada y emergente, tipos y aprendizaje estratégico).
 - Liderazgo estratégico: teoría de la alta dirección (upper echelons), rol del presidente, propósito superior y MEGA.
 
 ### Unidad 2. Industria y dinámica competitiva (clases 3–6)
@@ -65,7 +65,7 @@ Ingeniería Financiera · Universidad de Medellín · Profesor: Jorge Andrés Po
 | Clase | Semana | Bloque | Unidad | Tema y contenidos | Estrategia didáctica | Aporte al proyecto / evaluación |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 1 | 1 | U1 | Presentación del curso y del proyecto de aula. Apertura: ¿qué es estrategia? (estrategia deliberada y emergente; lo declarado frente a lo observado). Pregunta del curso, recorrido, cronograma, evaluación y acuerdo de uso de IA | Ejercicio en parejas con una carta del presidente; conformación de 8 equipos (Selección de grupo en UVirtual) y sorteo de sectores; aceptación del acuerdo de IA | Equipos conformados, empresa asignada, bitácora de IA creada y coordinador de P1 definido |
-| 2 | 1 | 1 | U1 | Escuelas de estrategia; estrategia deliberada y emergente. Liderazgo estratégico: teoría de la alta dirección (upper echelons), rol del presidente, propósito y MEGA | Lectura previa (Kennedy et al., 2020; Agazu et al., 2025); taller de cartas del presidente con IA y verificación con las cifras del informe | Inicio del perfil de liderazgo de la empresa |
+| 2 | 1 | 1 | U1 | Estrategia: contenido (organización industrial y recursos) y proceso (estrategia deliberada y emergente, tipos de estrategia y aprendizaje estratégico; Mintzberg y Waters, 1985). Liderazgo estratégico: teoría de la alta dirección (Hambrick y Mason, 1984), rol del presidente y del equipo directivo, visión, misión, propósito y MEGA | Lectura previa (Kennedy, 2020, cap. 1; Agazu et al., 2025); ejercicio en parejas de clasificación de estrategias; taller de cartas del presidente con IA, verificación con las cifras del informe y perfil del presidente según la teoría de la alta dirección | Ficha de liderazgo de la empresa (inicio del perfil de liderazgo del P1) |
 | 3 | 2 | 1 | U2 | Entorno y cinco fuerzas. PESTEL, cinco fuerzas, barreras de entrada y salida | Juego de las cinco fuerzas | PESTEL y cinco fuerzas del sector |
 | 4 | 2 | 1 | U2 | Concentración de mercado. Ck, HHI e interpretación regulatoria | Laboratorio con datos de Supersociedades | HHI del sector asignado |
 | 5 | 3 | 1 | U2 | Competencia en oligopolio. Cournot y Bertrand | Juego en el aula: decisiones de cantidad y precio | Modelo de rivalidad del sector |
@@ -116,17 +116,19 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U1
 
-- Kennedy, R., et al. (2020). Strategic management. Pamplin College of Business – Virginia Tech Publishing. (Libro, acceso: Libre, clase 1)
+- Kennedy, R. (2020). Strategic management. Virginia Tech Publishing. https://doi.org/10.21061/strategicmanagement (Libro, acceso: Libre, clase 1)
 - ★ Agazu, B. G., Kero, C. A., & Debela, K. L. (2025). Transformational leadership and firm performance: A systematic literature review. Journal of Innovation and Entrepreneurship. https://doi.org/10.1186/s13731-025-00476-x (Artículo, acceso: OA, clase 2)
 - Bevilacqua, S., Masárová, J., Perotti, F. A., & Ferraris, A. (2025). Enhancing top managers' leadership with artificial intelligence: Insights from a systematic literature review. Review of Managerial Science. https://doi.org/10.1007/s11846-025-00836-7 (Artículo, acceso: OA, clase 2)
 - Aguirre-Pérez, G. Á., & García-Sánchez, I.-M. (2025). Influence of CEO attributes on sustainability: From a bibliometric overview to a systematic review of the socio-psychological aspects. Corporate Social Responsibility and Environmental Management. https://doi.org/10.1002/csr.70021 (Artículo, acceso: OA, clase 2)
 - Tafuro, M., & Piccaluga, A. (2026). Bridging the understanding of corporate purpose with its effectiveness: A systematic literature review and research directions. Journal of Management and Organization. https://doi.org/10.1017/jmo.2025.10044 (Artículo, acceso: OA, clase 2)
-- Nayak, B., Bhattacharyya, S. S., & Krishnamoorthy, B. (2023). Integrating the dialectic perspectives of resource-based view and industrial organization theory for competitive advantage – A review and research agenda. Journal of Business and Industrial Marketing. https://doi.org/10.1108/JBIM-06-2021-0306 (Artículo, acceso: Suscripción, clase 1)
+- Nayak, B., Bhattacharyya, S. S., & Krishnamoorthy, B. (2023). Integrating the dialectic perspectives of resource-based view and industrial organization theory for competitive advantage – A review and research agenda. Journal of Business and Industrial Marketing. https://doi.org/10.1108/JBIM-06-2021-0306 (Artículo, acceso: Suscripción, clase 1–2)
+- Mintzberg, H., & Waters, J. A. (1985). Of strategies, deliberate and emergent. Strategic Management Journal, 6(3), 257–272. https://doi.org/10.1002/smj.4250060306 (Artículo, acceso: Suscripción, clase 2)
+- Hambrick, D. C., & Mason, P. A. (1984). Upper echelons: The organization as a reflection of its top managers. Academy of Management Review, 9(2), 193–206. https://doi.org/10.5465/amr.1984.4277628 (Artículo, acceso: Suscripción, clase 2)
 
 ### U2
 
 - Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial. Pearson Educación. (Libro, acceso: Libre, clase 3–6)
-- Kennedy, R., et al. (2020). Strategic management. Pamplin College of Business – Virginia Tech Publishing. (Libro, acceso: Libre, clase 3)
+- Kennedy, R. (2020). Strategic management. Virginia Tech Publishing. https://doi.org/10.21061/strategicmanagement (Libro, acceso: Libre, clase 3)
 - ★ Raj, M., & Eggers, J. P. (2026). When delivery comes to town: The effect of digital distribution platform emergence on industry structure and competition. Strategic Management Journal. https://doi.org/10.1002/smj.70024 (Artículo, acceso: OA, clase 3–4)
 - Maside-Sanfiz, J. M., Iglesias-Casal, A., Mazahreh, Q. A. S., & López-Penabad, M. C. (2024). The impact of competition on environmental and social performance in the MENA banking sector. Corporate Social Responsibility and Environmental Management. https://doi.org/10.1002/csr.2924 (Artículo, acceso: OA, clase 4)
 - Yao, F. K., Chen, M.-J., Li, J., Combs, D., & Li, Q. (2024). A review of 50 years of research since Knickerbocker (1973): Competitive dynamics in international business. Journal of International Business Studies. https://doi.org/10.1057/s41267-024-00707-5 (Artículo, acceso: Suscripción, clase 6)
@@ -134,7 +136,7 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U3
 
-- Kennedy, R., et al. (2020). Strategic management. Pamplin College of Business – Virginia Tech Publishing. (Libro, acceso: Libre, clase 7)
+- Kennedy, R. (2020). Strategic management. Virginia Tech Publishing. https://doi.org/10.21061/strategicmanagement (Libro, acceso: Libre, clase 7)
 - ★ Joussen, T. P., Kanbach, D. K., & Kraus, S. (2025). Enabling strategic change toward resilience: A systematic review from a dynamic capabilities perspective. Strategic Change. https://doi.org/10.1002/jsc.2626 (Artículo, acceso: OA, clase 8)
 - Hock-Doepgen, M., Heaton, S., Clauss, T., & Block, J. (2025). Identifying microfoundations of dynamic managerial capabilities for business model innovation. Strategic Management Journal. https://doi.org/10.1002/smj.3663 (Artículo, acceso: OA, clase 8)
 - Ferreira, N. C. M. Q. F., & Ferreira, J. J. M. (2025). The field of resource-based view research: Mapping past, present and future trends. Management Decision. https://doi.org/10.1108/MD-10-2023-1908 (Artículo, acceso: Suscripción, clase 7)
