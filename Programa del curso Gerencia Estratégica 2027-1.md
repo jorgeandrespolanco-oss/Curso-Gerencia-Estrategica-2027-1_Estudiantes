@@ -66,7 +66,7 @@ Ingeniería Financiera · Universidad de Medellín · Profesor: Jorge Andrés Po
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 1 | 1 | U1 | Presentación del curso y del proyecto de aula. Apertura: ¿qué es estrategia? (estrategia deliberada y emergente; lo declarado frente a lo observado). Pregunta del curso, recorrido, cronograma, evaluación y acuerdo de uso de IA | Ejercicio en parejas con una carta del presidente; conformación de 8 equipos (Selección de grupo en UVirtual) y sorteo de sectores; aceptación del acuerdo de IA | Equipos conformados, empresa asignada, bitácora de IA creada y coordinador de P1 definido |
 | 2 | 1 | 1 | U1 | Estrategia: contenido (organización industrial y recursos) y proceso (estrategia deliberada y emergente, tipos de estrategia y aprendizaje estratégico; Mintzberg y Waters, 1985). Liderazgo estratégico: teoría de la alta dirección (Hambrick y Mason, 1984), rol del presidente y del equipo directivo, visión, misión, propósito y MEGA | Lectura previa (Kennedy, 2020, cap. 1; Agazu et al., 2025); ejercicio en parejas de clasificación de estrategias; taller de cartas del presidente con IA, verificación con las cifras del informe y perfil del presidente según la teoría de la alta dirección | Ficha de liderazgo de la empresa (inicio del perfil de liderazgo del P1) |
-| 3 | 2 | 1 | U2 | Entorno y cinco fuerzas. PESTEL, cinco fuerzas, barreras de entrada y salida | Juego de las cinco fuerzas | PESTEL y cinco fuerzas del sector |
+| 3 | 2 | 1 | U2 | Entorno y cinco fuerzas. Capas del entorno y PESTEL; mercado relevante; visión tradicional y moderna de estructura-conducta-desempeño; cinco fuerzas; barreras de entrada (legales, naturales y estratégicas) y de salida; disrupción por intermediario (plataformas digitales) | Votación inicial sobre el caso de las plataformas de domicilios; tribunal de las fuerzas: juego por pares de sector en una hoja compartida (evidencia, cruce con tribunal e intermediario); radar de los cuatro sectores en plenaria | Hoja compartida del sector: mercado relevante, PESTEL y cinco fuerzas con evidencia (sección de análisis de la industria del P1) |
 | 4 | 2 | 1 | U2 | Concentración de mercado. Ck, HHI e interpretación regulatoria | Laboratorio con datos de Supersociedades | HHI del sector asignado |
 | 5 | 3 | 1 | U2 | Competencia en oligopolio. Cournot y Bertrand | Juego en el aula: decisiones de cantidad y precio | Modelo de rivalidad del sector |
 | 6 | 3 | 1 | U2 | Dinámica competitiva. Stackelberg, disuasión de la entrada; colusión y carteles en Colombia; colusión algorítmica | Caso colombiano de cartel; discusión guiada | Movimientos competitivos del sector |
@@ -127,10 +127,10 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U2
 
-- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial. Pearson Educación. (Libro, acceso: Libre, clase 3–6)
+- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial (2.ª ed.). Pearson Educación. (Libro, acceso: Libre, clase 3–6)
 - Kennedy, R. (2020). Strategic management. Virginia Tech Publishing. https://doi.org/10.21061/strategicmanagement (Libro, acceso: Libre, clase 3)
-- ★ Raj, M., & Eggers, J. P. (2026). When delivery comes to town: The effect of digital distribution platform emergence on industry structure and competition. Strategic Management Journal. https://doi.org/10.1002/smj.70024 (Artículo, acceso: OA, clase 3–4)
-- Maside-Sanfiz, J. M., Iglesias-Casal, A., Mazahreh, Q. A. S., & López-Penabad, M. C. (2024). The impact of competition on environmental and social performance in the MENA banking sector. Corporate Social Responsibility and Environmental Management. https://doi.org/10.1002/csr.2924 (Artículo, acceso: OA, clase 4)
+- ★ Raj, M., & Eggers, J. P. (2026). When delivery comes to town: The effect of digital distribution platform emergence on industry structure and competition. Strategic Management Journal, 47(2), 390–427. https://doi.org/10.1002/smj.70024 (Artículo, acceso: OA, clase 3–4)
+- Maside-Sanfiz, J. M., Iglesias-Casal, A., Mazahreh, Q. A. S., & López-Penabad, M. C. (2024). The impact of competition on environmental and social performance in the MENA banking sector. Corporate Social Responsibility and Environmental Management, 31, 6290–6317. https://doi.org/10.1002/csr.2924 (Artículo, acceso: OA, clase 4)
 - Yao, F. K., Chen, M.-J., Li, J., Combs, D., & Li, Q. (2024). A review of 50 years of research since Knickerbocker (1973): Competitive dynamics in international business. Journal of International Business Studies. https://doi.org/10.1057/s41267-024-00707-5 (Artículo, acceso: Suscripción, clase 6)
 - Abada, I., & Lambin, X. (2023). Artificial intelligence: Can seemingly collusive outcomes be avoided? Management Science. https://doi.org/10.1287/mnsc.2022.4623 (Artículo, acceso: OA, clase 6)
 
@@ -152,7 +152,7 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U5
 
-- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial. Pearson Educación. (Libro, acceso: Libre, clase 17)
+- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial (2.ª ed.). Pearson Educación. (Libro, acceso: Libre, clase 17)
 - OpenStax. (2022). Principles of finance. Rice University. (Recurso, acceso: Libre, clase 20–21)
 - Fernández, P. (edición vigente). Valoración de empresas y sensatez. IESE Business School. SSRN. https://www.ssrn.com (Recurso, acceso: Libre, clase 18)
 - ★ Doshi, A. R., Bell, J. J., Mirzayev, E., & Vanneste, B. S. (2025). Generative artificial intelligence and evaluating strategic decisions. Strategic Management Journal. https://doi.org/10.1002/smj.3677 (Artículo, acceso: OA, clase 20)
