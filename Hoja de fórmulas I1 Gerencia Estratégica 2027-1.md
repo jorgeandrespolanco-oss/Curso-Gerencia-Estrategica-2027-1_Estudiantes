@@ -9,7 +9,7 @@ No incluye las fórmulas de equilibrio: el estudiante debe derivarlas a partir d
 - Razón de concentración: C4 = suma de las participaciones de las cuatro mayores empresas.
 - Índice Herfindahl-Hirschman: HHI = suma de los cuadrados de las participaciones de todas las empresas, en porcentaje (máximo 10.000).
 - Efecto de una fusión entre las empresas i y j: ΔHHI = 2 × s\_i × s\_j.
-- Umbrales de referencia de la Superintendencia de Industria y Comercio (SIC): HHI menor que 1.500, mercado desconcentrado; entre 1.500 y 2.500, moderadamente concentrado; mayor que 2.500, altamente concentrado. Para el efecto de una fusión se usa el criterio de las guías DOJ/FTC de 2010, que la SIC toma como referencia: en un mercado altamente concentrado, un ΔHHI entre 100 y 200 puede generar preocupación, y uno mayor que 200 hace presumir que la fusión aumenta el poder de mercado.
+- Umbrales de referencia: HHI menor que 1.500, mercado desconcentrado; entre 1.500 y 2.500, moderadamente concentrado; mayor que 2.500, altamente concentrado. Son los rangos de las guías de fusiones horizontales del Departamento de Justicia y la Comisión Federal de Comercio de Estados Unidos (DOJ/FTC, 2010), que la Superintendencia de Industria y Comercio (SIC) usa como referencia en sus estudios y decisiones; no los fija una norma colombiana. Para el efecto de una fusión se usa el criterio de las mismas guías: en un mercado altamente concentrado, un ΔHHI entre 100 y 200 puede generar preocupación, y uno mayor que 200 hace presumir que la fusión aumenta el poder de mercado.
 
 **Oligopolio con demanda lineal P = a − Q y costo marginal constante c**
 
