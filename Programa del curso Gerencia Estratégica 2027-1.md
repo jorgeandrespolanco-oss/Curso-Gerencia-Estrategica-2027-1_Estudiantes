@@ -80,7 +80,7 @@ Ingeniería Financiera · Universidad de Medellín · Profesor: Jorge Andrés Po
 | 14 | 7 | 1 | — | Tutoría 1 del diagnóstico | Tutoría por equipos con lista de chequeo de P1 | Formativa, sin nota |
 | 15 | 8 | 1 | — | P1: sustentación del diagnóstico, equipos 1–4 | Junta simulada con observaciones cualitativas (sin nota) | P1 · Grupal · 20 % (presentación 60 %, reporte 40 %) |
 | 16 | 8 | 1 | — | P1: sustentación del diagnóstico, equipos 5–8 | Junta simulada con observaciones cualitativas (sin nota) | P1 (continuación) |
-| 17 | 9 | 2 | U5 | Estrategia de crecimiento. Integración vertical y horizontal, diversificación, alianzas, joint ventures | Mapa de crecimiento de la empresa (5 años) | Opciones de crecimiento |
+| 17 | 9 | 2 | U5 | Estrategia de crecimiento. Estrategia corporativa y alcance de la empresa; direcciones de crecimiento (integración vertical hacia atrás y hacia adelante, horizontal, diversificación relacionada y no relacionada, geográfica); pruebas para diversificar; integrar o contratar: costos de transacción y doble margen; formas de crecer (desarrollo propio, alianzas, joint ventures, fusiones y adquisiciones) y escisiones | Lectura previa (Tarziján y Paredes, 2006, caps. 2 y 6); cálculo del doble margen; taller por equipos del mapa de crecimiento de la empresa a 5 años (alcance actual, movimientos de los últimos cinco años con fuente, dos opciones evaluadas con las tres pruebas y reacción del rival); holdings con matriz BCG del portafolio o mapa de la filial principal | Dos opciones de crecimiento evaluadas, base de las alternativas del P2; primera objeción del equipo rojo |
 | 18 | 9 | 2 | U5 | Fusiones y adquisiciones y creación de valor. Sinergias; estudio de evento | Laboratorio con precios de la BVC y MSCI COLCAP | Evidencia de valor de operaciones del sector |
 | 19 | 10 | 2 | U5 | Modelos de negocio y plataformas; modelos digitales y sostenibles | Equipo rojo con IA | Alternativa de modelo de negocio |
 | 20 | 10 | 2 | U5 | Decisión bajo incertidumbre. Maximin, maximax, arrepentimiento, valor esperado, árboles; IA generativa y decisiones | Ejercicios aplicados al proyecto | Matriz de decisión |
@@ -167,12 +167,13 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U5
 
-- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial (2.ª ed.). Pearson Educación. (Libro, acceso: Libre, clase 17)
+- Tarziján, J., & Paredes, R. (2006). Organización industrial para la estrategia empresarial (2.ª ed.), caps. 2 y 6. Pearson Educación. (Libro, acceso: Libre, clase 17)
+- Kennedy, R. (2020). Strategic management, cap. 8. Virginia Tech Publishing. https://doi.org/10.21061/strategicmanagement (Libro, acceso: Libre, clase 17)
 - OpenStax. (2022). Principles of finance. Rice University. (Recurso, acceso: Libre, clase 20–21)
 - Fernández, P. (edición vigente). Valoración de empresas y sensatez. IESE Business School. SSRN. https://www.ssrn.com (Recurso, acceso: Libre, clase 18)
 - ★ Doshi, A. R., Bell, J. J., Mirzayev, E., & Vanneste, B. S. (2025). Generative artificial intelligence and evaluating strategic decisions. Strategic Management Journal. https://doi.org/10.1002/smj.3677 (Artículo, acceso: OA, clase 20)
-- Arts, S., Cassiman, B., & Hou, J. (2025). Technology differentiation, product market rivalry, and M&A transactions. Strategic Management Journal. https://doi.org/10.1002/smj.3687 (Artículo, acceso: OA, clase 18)
-- Beal Partyka, R., & Laureano Paiva, E. (2024). Bridging the gap: State-of-the-art on vertical integration. RAUSP Management Journal. https://doi.org/10.1108/RAUSP-03-2023-0041 (Artículo, acceso: OA, clase 17)
+- Arts, S., Cassiman, B., & Hou, J. (2025). Technology differentiation, product market rivalry, and M&A transactions. Strategic Management Journal, 46(4), 837–862. https://doi.org/10.1002/smj.3687 (Artículo, acceso: OA, clase 18)
+- Beal Partyka, R., & Laureano Paiva, E. (2024). Bridging the gap: State-of-the-art on vertical integration. RAUSP Management Journal, 59(3), 229–255. https://doi.org/10.1108/RAUSP-03-2023-0041 (Artículo, acceso: OA, clase 17)
 - Palmié, M., Aebersold, A., Oghazi, P., Pashkevich, N., & Gassmann, O. (2025). Digital-sustainable business models: Definition, systematic literature review, integrative framework and research agenda from a strategic management perspective. International Journal of Management Reviews. https://doi.org/10.1111/ijmr.12380 (Artículo, acceso: OA, clase 19)
 - Carayannis, E. G., Dumitrescu, R., Falkowski, T., Papamichail, G., & Zota, N.-R. (2025). Enhancing SME resilience through artificial intelligence and strategic foresight: A framework for sustainable competitiveness. Technology in Society. https://doi.org/10.1016/j.techsoc.2025.102835 (Artículo, acceso: Suscripción, clase 21)
 
