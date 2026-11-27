@@ -184,8 +184,7 @@ En cada entrega del proyecto, la presentación ante la junta vale 60 % y el repo
 
 ### U6
 
-- Fernández, P. (edición vigente). Valoración de empresas y sensatez. IESE Business School. SSRN. https://www.ssrn.com (Recurso, acceso: Libre, clase 26)
-- OpenStax. (2022). Principles of finance. Rice University. (Recurso, acceso: Libre, clase 26)
+- Fernández, P. (edición vigente). Valoración de empresas y sensatez. IESE Business School. SSRN. https://ssrn.com/abstract=2202141 (Recurso, acceso: Libre, clase 26)
 - Docente del curso. (2027). Cuantificación de la estrategia: WACC y EVA con datos públicos colombianos (camino local en pesos y camino en dólares con riesgo país) [Material académico]. Universidad de Medellín. (Material propio, acceso: Libre, clase 26 y P3)
 - ★ Holm, C. G., Kringelum, L., & Anand, A. (2026). Creating effective strategy implementation: A systematic review of managerial and organizational levers. Review of Managerial Science, 20(2), 673–705. https://doi.org/10.1007/s11846-025-00880-3 (Artículo, acceso: OA, clase 25)
 - Kaplan, R. S., & Norton, D. P. (2004). The strategy map: Guide to aligning intangible assets. Strategy & Leadership, 32(5), 10–17. https://doi.org/10.1108/10878570410699825 (Artículo, acceso: Suscripción, clase 25)
