@@ -2,7 +2,7 @@
 
 **Camino local en pesos y camino en dólares con riesgo país**
 
-Gerencia Estratégica 2027-1 · Ingeniería Financiera · Universidad de Medellín · Material académico del docente del curso · Versión 1 (noviembre de 2026)
+Gerencia Estratégica 2027-1 · Ingeniería Financiera · Universidad de Medellín · Material académico del docente del curso · Versión 2 (noviembre de 2026)
 
 Esta guía acompaña la clase 26 y el punto 3 del P3. Se usa con la plantilla `Clase 26 - WACC, EVA y ROIC.xlsx`.
 
@@ -44,7 +44,11 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 2. **Suficientes datos.** Use rendimientos mensuales de tres a cinco años o semanales de dos años, y reporte el periodo.
 3. **Ruido.** La beta de una sola acción tiene mucho error de estimación; la beta de un grupo de empresas parecidas es más confiable (p. 244). Compare la beta de su empresa con la de la empresa par del sector y, si son muy distintas, explique por qué o use el promedio.
 
+**Un contrapunto: la beta «con sensatez».** Pablo Fernández sostiene que las betas calculadas por regresión son poco confiables: cambian mucho de un día a otro y según el índice, el periodo y la frecuencia de los datos, y la correlación de esas regresiones suele ser muy baja (Fernández, 2019a, p. 2). Propone estimar la beta a partir del riesgo que el analista ve en los flujos de la empresa: β = 0 corresponde a los bonos del gobierno y β = 1 a un riesgo parecido al del mercado; 0,7 o menos sirve para flujos muy predecibles (eléctricas en países con pocas sorpresas, concesiones de aguas), y 1,5 o más para flujos muy inciertos (por la aceptación de los productos, el endeudamiento alto o el riesgo regulatorio) (pp. 12–13). El curso mantiene la regresión porque es verificable y es la que se usa en el examen final, pero use ese rango como prueba: si su beta cae muy lejos de lo que sugiere el riesgo del negocio, explique por qué.
+
 **La prima de mercado.** Es lo que los inversionistas exigen por invertir en acciones en lugar de bonos del gobierno. Fuente del curso: la encuesta anual de Pablo Fernández sobre la prima de mercado y la tasa libre de riesgo que usan profesores, analistas y empresas en cada país (edición 2026, 97 países, en SSRN). Use el valor de Colombia en el camino A y el de Estados Unidos en el camino B.
+
+**No existe «la» prima.** La expresión «prima de riesgo del mercado» designa cuatro cosas distintas: la histórica (lo que las acciones rindieron de más sobre los bonos en el pasado), la esperada, la exigida (la que entra en el Ke) y la implícita en los precios. Como cada inversionista tiene sus propias expectativas, no hay un número único «del mercado» (Fernández & Carabias, 2019, p. 1). La histórica no es una buena estimación de la exigida: por ejemplo, sube después de un buen año de bolsa sin que haya razón para exigir más (pp. 2–3). Por eso el curso no toma la prima de un libro de texto ni de una serie histórica, sino de la encuesta, y por eso la sensibilidad la mueve ±1 punto.
 
 **Coherencia entre tasa y prima.** Si la tasa libre de riesgo es la de un bono de largo plazo, la prima debe medirse frente a ese mismo tipo de bono (Brealey et al., 2010, p. 245). Por eso el curso usa bonos a 10 años en los dos caminos.
 
@@ -88,11 +92,13 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 
 ## 6. El costo de la deuda, los impuestos y los pesos
 
+**Qué es el WACC (y qué no es).** El WACC no es un costo ni una rentabilidad exigida, sino un promedio ponderado de un costo (el de la deuda) y una rentabilidad exigida (la del patrimonio). Es la tasa que, aplicada a los flujos de caja libres, da el mismo valor del patrimonio que descontar los flujos del accionista al Ke (Fernández, 2019d, pp. 1–2). La diferencia importa: si la empresa no paga la deuda, la pueden liquidar; si no logra la rentabilidad que esperan los accionistas, las consecuencias suelen ser menores y más lentas (p. 2). Llamarlo «el costo de los recursos» o tratarlo como el rendimiento de los activos lleva a errores (p. 3).
+
 **Costo de la deuda (Kd).** Es la tasa que la empresa pagaría hoy por endeudarse, no la tasa pactada cuando emitió la deuda ni el cupón (Brealey et al., 2010, p. 531). Si la empresa tiene bonos que se negocian en la BVC, use su rendimiento actual. Si no, una aproximación es el gasto de intereses del último año dividido por la deuda financiera promedio; dígalo como aproximación.
 
 **Tasa de impuestos (t).** La tarifa general del impuesto de renta en Colombia es 35 %. Algunas actividades, como las entidades financieras, tienen sobretasas temporales; verifiquen la tasa que aplica a su empresa en la nota de impuestos de los estados financieros y citen la página.
 
-**Pesos de deuda y patrimonio.** Use el **valor de mercado del patrimonio**: precio de la acción en la BVC × número de acciones. No use el patrimonio en libros para los pesos (Brealey et al., 2010, p. 531). Para la deuda se acepta el valor en libros de la deuda financiera si la empresa es sana (p. 540). Incluya la deuda de corto plazo si es una fuente permanente de financiación (pp. 539–540).
+**Pesos de deuda y patrimonio.** Use el **valor de mercado del patrimonio**: precio de la acción en la BVC × número de acciones. No use el patrimonio en libros para los pesos (Brealey et al., 2010, p. 531): es «un error muy común» (Fernández, 2019d, p. 3). En rigor, los pesos deberían ser los valores que resultan de la propia valoración; el valor de mercado del patrimonio es la aproximación que usa el curso. Para la deuda se acepta el valor en libros de la deuda financiera si la empresa es sana (p. 540). Incluya la deuda de corto plazo si es una fuente permanente de financiación (pp. 539–540).
 
 **Un error común.** El WACC es el de la empresa tal como está financiada, no el de un proyecto que «se financiará con más deuda». Bajar el WACC suponiendo más deuda solo para que el proyecto luzca mejor es el error del «gerente Q» (Brealey et al., 2010, p. 541).
 
@@ -109,11 +115,15 @@ Con los estados financieros consolidados de los tres últimos años (Supersocied
 
 **Cómo leerlo.** El signo del diferencial ROIC − WACC dice si la empresa crea o destruye valor; el tamaño del capital dice cuánto. Una empresa grande con un diferencial pequeño puede crear más valor que una pequeña con un diferencial grande (Brealey et al., 2010, p. 336).
 
+**Del EVA al valor.** El valor de la empresa (deuda más patrimonio) es igual a su capital en libros más el valor presente de los EVA futuros descontados al WACC (Fernández, 2019c, p. 9). Una empresa vale más que su capital en libros solo si se espera que su EVA sea positivo.
+
 ---
 
 ## 8. La trampa del crecimiento
 
 Cualquier inversión con rendimiento positivo, aunque sea de 1 % o 2 %, aumenta las utilidades. Si a los gerentes se les pide hacer crecer las utilidades, pueden invertir en proyectos que las aumentan y al mismo tiempo destruyen valor (Brealey et al., 2010, p. 334). Del mismo modo, una empresa que reinvierte sus utilidades a una tasa menor que su costo de capital aumenta sus utilidades a costa del valor de la acción (p. 99).
+
+Fernández lo muestra con el PER. Dos empresas tienen un ROE de 10 % y un Ke de 10 %: una reparte toda la utilidad y no crece; la otra reinvierte el 60 % y crece al 6 %. Las dos valen 100, lo mismo que su patrimonio en libros, y tienen el mismo PER de 10: crecer con un rendimiento igual al costo no se premia. Si el ROE es menor que el Ke, cuanto más crece la empresa, menor es su PER, porque cada inversión nueva destruye valor (Fernández, 2019b, pp. 3–4). No basta crecer en ventas: hay que invertir en proyectos que rindan más que el costo de los recursos (p. 4).
 
 Con la fórmula del EVA se ve de inmediato: si el capital nuevo rinde lo mismo que el existente,
 
@@ -144,6 +154,8 @@ En un banco, los depósitos no son una fuente de financiación como la deuda de 
 > **Ke** por el camino A o B (secciones 4 y 5)
 >
 > **EVA sobre el patrimonio** = utilidad neta atribuible − Ke × patrimonio atribuible = (ROE − Ke) × patrimonio
+
+Esta medida tiene nombre en la literatura: el **beneficio económico**, utilidad neta menos Ke por el patrimonio en libros, una idea que ya usaba Alfred Marshall en 1890 (Fernández, 2019c, p. 8). Fernández toma el patrimonio al inicio del año; si usa el cierre o el promedio, use el mismo criterio en los tres años y dígalo.
 
 El efecto de la estrategia se calcula igual, con el cambio esperado en la utilidad neta y en el patrimonio. La plantilla trae la hoja «Patrimonio» para estos casos.
 
@@ -178,8 +190,10 @@ La plantilla los calcula en la hoja «Sensibilidad». **La pregunta clave:** ¿e
 
 - **Mezclar monedas:** sumar el EMBI a la tasa de los TES, usar la prima de EE. UU. con los TES o dejar el Ke del camino B en dólares.
 - **Usar el patrimonio en libros** para los pesos del WACC.
+- **Usar en el WACC un endeudamiento distinto** del de los datos de la empresa, por ejemplo una razón deuda/patrimonio «del sector» que no corresponde a la deuda que se resta o se reporta (Fernández, 2019d, p. 3).
 - **Usar la tasa cupón** de la deuda en lugar de la tasa actual.
-- **Estimar la beta con precios** en lugar de rendimientos.
+- **Estimar la beta con precios** en lugar de rendimientos, o reportar una beta absurda para el riesgo del negocio sin comentarla.
+- **Tomar la prima de un libro o de una serie histórica** en lugar de la encuesta (Fernández & Carabias, 2019, pp. 2–3).
 - **Cifras sin fuente o tomadas de la IA:** toda cifra sale de una fuente verificable, con fecha o página.
 - **Calcular el WACC de un banco** como si fuera una empresa industrial.
 
@@ -200,5 +214,15 @@ La plantilla los calcula en la hoja «Sensibilidad». **La pregunta clave:** ¿e
 ## Referencias
 
 Brealey, R. A., Myers, S. C., & Allen, F. (2010). *Principios de finanzas corporativas* (9.ª ed.). McGraw-Hill.
+
+Fernández, P. (2019a). CAPM (capital asset pricing model): un modelo absurdo. En *Valoración de empresas y sensatez* (cap. 15). IESE Business School. https://ssrn.com/abstract=2499455
+
+Fernández, P. (2019b). El PER, la rentabilidad exigida y el crecimiento esperado. En *Valoración de empresas y sensatez* (cap. 11). IESE Business School. https://ssrn.com/abstract=2430662
+
+Fernández, P. (2019c). Valoración de empresas por descuento de flujos: lo fundamental y las complicaciones innecesarias. En *Valoración de empresas y sensatez* (cap. 2). IESE Business School. https://ssrn.com/abstract=2089397
+
+Fernández, P. (2019d). WACC: definición, interpretaciones equivocadas y errores. En *Valoración de empresas y sensatez* (cap. 6). IESE Business School. https://ssrn.com/abstract=1633408
+
+Fernández, P., & Carabias, J. M. (2019). Prima de riesgo del mercado: histórica, esperada, exigida e implícita. En *Valoración de empresas y sensatez* (cap. 7). IESE Business School. https://ssrn.com/abstract=897676
 
 Fernandez, P., Habibian, A., & Fernández Acín, A. (2026). *Survey: Market risk premium and risk-free rate used for 97 countries in 2026* [Documento de trabajo]. SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570342
