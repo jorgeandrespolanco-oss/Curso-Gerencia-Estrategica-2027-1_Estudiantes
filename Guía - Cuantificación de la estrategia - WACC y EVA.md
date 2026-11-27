@@ -2,7 +2,7 @@
 
 **Camino local en pesos y camino en dólares con riesgo país**
 
-Gerencia Estratégica 2027-1 · Ingeniería Financiera · Universidad de Medellín · Material académico del docente del curso · Versión 2 (noviembre de 2026)
+Gerencia Estratégica 2027-1 · Ingeniería Financiera · Universidad de Medellín · Material académico del docente del curso · Versión 3 (noviembre de 2026)
 
 Esta guía acompaña la clase 26 y el punto 3 del P3. Se usa con la plantilla `Clase 26 - WACC, EVA y ROIC.xlsx`.
 
@@ -46,6 +46,8 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 
 **Un contrapunto: la beta «con sensatez».** Pablo Fernández sostiene que las betas calculadas por regresión son poco confiables: cambian mucho de un día a otro y según el índice, el periodo y la frecuencia de los datos, y la correlación de esas regresiones suele ser muy baja (Fernández, 2019a, p. 2). Propone estimar la beta a partir del riesgo que el analista ve en los flujos de la empresa: β = 0 corresponde a los bonos del gobierno y β = 1 a un riesgo parecido al del mercado; 0,7 o menos sirve para flujos muy predecibles (eléctricas en países con pocas sorpresas, concesiones de aguas), y 1,5 o más para flujos muy inciertos (por la aceptación de los productos, el endeudamiento alto o el riesgo regulatorio) (pp. 12–13). El curso mantiene la regresión porque es verificable y es la que se usa en el examen final, pero use ese rango como prueba: si su beta cae muy lejos de lo que sugiere el riesgo del negocio, explique por qué.
 
+**Dos trampas con la beta.** Si la acción negocia poco, la beta calculada tiende a cero, porque los precios de cierre de la acción no se forman al mismo tiempo que el índice (Fernández, 2021, pp. 3, 9): en ese caso use la beta de la empresa par o un promedio del sector y dígalo. Y si toma una beta de un portal financiero, verifique si es «ajustada»: el ajuste habitual, 0,67 × beta calculada + 0,33, solo acerca la beta a 1 de forma arbitraria (p. 9).
+
 **La prima de mercado.** Es lo que los inversionistas exigen por invertir en acciones en lugar de bonos del gobierno. Fuente del curso: la encuesta anual de Pablo Fernández sobre la prima de mercado y la tasa libre de riesgo que usan profesores, analistas y empresas en cada país (edición 2026, 97 países, en SSRN). Use el valor de Colombia en el camino A y el de Estados Unidos en el camino B.
 
 **No existe «la» prima.** La expresión «prima de riesgo del mercado» designa cuatro cosas distintas: la histórica (lo que las acciones rindieron de más sobre los bonos en el pasado), la esperada, la exigida (la que entra en el Ke) y la implícita en los precios. Como cada inversionista tiene sus propias expectativas, no hay un número único «del mercado» (Fernández & Carabias, 2019, p. 1). La histórica no es una buena estimación de la exigida: por ejemplo, sube después de un buen año de bolsa sin que haya razón para exigir más (pp. 2–3). Por eso el curso no toma la prima de un libro de texto ni de una serie histórica, sino de la encuesta, y por eso la sensibilidad la mueve ±1 punto.
@@ -63,6 +65,8 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 | Tasa de los TES a 10 años | Banco de la República, curva cero cupón de los TES | El dato más reciente, con fecha |
 | Prima de mercado de Colombia | Encuesta de Fernández (valor de Colombia) | Reporte el valor y el año de la encuesta |
 | Beta | Regresión contra el MSCI COLCAP | Ver sección 3 |
+
+**La tasa libre de riesgo es la de hoy.** Es la tasa de los bonos del Estado de largo plazo en la fecha del cálculo; no un promedio histórico, ni la de un título de corto plazo, ni la de otra fecha (Fernández, 2021, p. 2). Además, ninguna empresa colombiana puede tener menos riesgo que los bonos del Estado colombiano (p. 9): el Ke del camino A siempre debe quedar por encima de la tasa de los TES.
 
 **El camino A no suma el EMBI.** La tasa de los TES ya es la tasa del gobierno colombiano en pesos: ya incluye el riesgo país y la inflación esperada en Colombia. Sumarle el EMBI sería contar dos veces el riesgo país. Brealey et al. advierten, en general, contra agregar «factores adicionales» a la tasa de descuento para cubrir lo que podría salir mal; recomiendan reflejar esos riesgos en los flujos de caja esperados (2010, p. 247).
 
@@ -82,9 +86,9 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 | Inflación esperada de EE. UU. | FRED (serie T10YIE, inflación implícita a 10 años) | El dato más reciente |
 | Inflación esperada de Colombia | Banco de la República (meta de largo plazo del 3 % o encuesta de expectativas de analistas) | Diga cuál usó |
 
-**Por qué se suma el EMBI aquí.** El Tesoro de EE. UU. no tiene el riesgo de invertir en Colombia; el EMBI mide cuánto más pagan los bonos del gobierno colombiano en dólares que los del Tesoro. Es una práctica muy usada entre analistas, con la objeción de la sección 4: es un factor añadido a la tasa.
+**Por qué se suma el EMBI aquí.** El Tesoro de EE. UU. no tiene el riesgo de invertir en Colombia; el EMBI mide cuánto más pagan los bonos del gobierno colombiano en dólares que los del Tesoro. La beta no recoge el riesgo país, y la forma más habitual de incluirlo es justamente el diferencial de los bonos soberanos en dólares del país sobre el Tesoro de EE. UU. (Fernández, 2021, p. 3). Omitirlo con el argumento de que es diversificable es un error (p. 9). La objeción de la sección 4 sigue en pie: es un factor que se suma a la tasa, y por eso el curso pide mostrar los dos caminos.
 
-**Por qué se convierte a pesos.** Las tasas en monedas distintas no se comparan directamente, como no se compara la altura de un conejo en pulgadas con la de un elefante en pies (Brealey et al., 2010, p. 257). Como los estados financieros están en pesos, el Ke también debe estarlo. La conversión con el diferencial de inflación mantiene la misma tasa real en las dos monedas.
+**Por qué se convierte a pesos.** Las tasas en monedas distintas no se comparan directamente, como no se compara la altura de un conejo en pulgadas con la de un elefante en pies (Brealey et al., 2010, p. 257). Como los estados financieros están en pesos, el Ke también debe estarlo. La conversión con el diferencial de inflación mantiene la misma tasa real en las dos monedas. Use la inflación esperada para el plazo del bono (por eso la inflación implícita a 10 años), no la inflación del último año (Fernández, 2021, p. 2).
 
 **Por qué los dos caminos dan cifras distintas.** Parten de tasas libres de riesgo distintas (TES frente a Tesoro más EMBI), de primas distintas (Colombia frente a EE. UU.) y de supuestos de inflación. Ninguno es «el correcto»: el P3 pide justificar el elegido y mostrar el otro en la sensibilidad. Si la diferencia es grande, dígalo y explique de dónde viene.
 
@@ -96,7 +100,7 @@ El curso usa el modelo de valoración de activos de capital (CAPM):
 
 **Costo de la deuda (Kd).** Es la tasa que la empresa pagaría hoy por endeudarse, no la tasa pactada cuando emitió la deuda ni el cupón (Brealey et al., 2010, p. 531). Si la empresa tiene bonos que se negocian en la BVC, use su rendimiento actual. Si no, una aproximación es el gasto de intereses del último año dividido por la deuda financiera promedio; dígalo como aproximación.
 
-**Tasa de impuestos (t).** La tarifa general del impuesto de renta en Colombia es 35 %. Algunas actividades, como las entidades financieras, tienen sobretasas temporales; verifiquen la tasa que aplica a su empresa en la nota de impuestos de los estados financieros y citen la página.
+**Tasa de impuestos (t).** La tarifa general del impuesto de renta en Colombia es 35 %. Algunas actividades, como las entidades financieras, tienen sobretasas temporales; verifiquen la tasa que aplica a su empresa en la nota de impuestos de los estados financieros y citen la página. Fernández recomienda usar la tasa efectiva de la empresa y no la nominal (2021, p. 8); si las dos difieren mucho, diga cuál usó y use la misma en el NOPAT y en el costo de la deuda.
 
 **Pesos de deuda y patrimonio.** Use el **valor de mercado del patrimonio**: precio de la acción en la BVC × número de acciones. No use el patrimonio en libros para los pesos (Brealey et al., 2010, p. 531): es «un error muy común» (Fernández, 2019d, p. 3). En rigor, los pesos deberían ser los valores que resultan de la propia valoración; el valor de mercado del patrimonio es la aproximación que usa el curso. Para la deuda se acepta el valor en libros de la deuda financiera si la empresa es sana (p. 540). Incluya la deuda de corto plazo si es una fuente permanente de financiación (pp. 539–540).
 
@@ -116,6 +120,8 @@ Con los estados financieros consolidados de los tres últimos años (Supersocied
 **Cómo leerlo.** El signo del diferencial ROIC − WACC dice si la empresa crea o destruye valor; el tamaño del capital dice cuánto. Una empresa grande con un diferencial pequeño puede crear más valor que una pequeña con un diferencial grande (Brealey et al., 2010, p. 336).
 
 **Del EVA al valor.** El valor de la empresa (deuda más patrimonio) es igual a su capital en libros más el valor presente de los EVA futuros descontados al WACC (Fernández, 2019c, p. 9). Una empresa vale más que su capital en libros solo si se espera que su EVA sea positivo.
+
+**Una advertencia.** El ROIC, el ROE y el EVA son medidas contables del año. No son la rentabilidad que obtuvo el accionista, que depende sobre todo de los cambios en las expectativas: General Electric tuvo un ROE de 18 % a 27 % entre 1992 y 2002, mientras su rentabilidad para el accionista osciló entre −37 % y 53 % (Fernández, 2021, p. 22). El EVA dice si la operación cubre el costo del capital; no predice el precio de la acción.
 
 ---
 
@@ -159,7 +165,7 @@ Esta medida tiene nombre en la literatura: el **beneficio económico**, utilidad
 
 El efecto de la estrategia se calcula igual, con el cambio esperado en la utilidad neta y en el patrimonio. La plantilla trae la hoja «Patrimonio» para estos casos.
 
-**Holdings no financieros (Argos).** Se usa el WACC de los estados consolidados, con una advertencia: un WACC único para negocios muy distintos (cemento, energía, concesiones) puede no servir para ninguno de ellos en particular (Brealey et al., 2010, p. 540). Si la estrategia se concentra en un negocio, dígalo en el anexo.
+**Holdings no financieros (Argos).** Se usa el WACC de los estados consolidados, con una advertencia: un WACC único para negocios muy distintos (cemento, energía, concesiones) puede no servir para ninguno de ellos en particular (Brealey et al., 2010, p. 540; Fernández, 2021, p. 6). Si la estrategia se concentra en un negocio, dígalo en el anexo.
 
 ---
 
@@ -188,12 +194,18 @@ La plantilla los calcula en la hoja «Sensibilidad». **La pregunta clave:** ¿e
 
 ## 13. Errores que restan puntos
 
+Fernández (2021) recopila 210 errores encontrados en valoraciones reales de arbitrajes, juicios y compraventas de empresas. Esta lista toma los que más se repiten en un trabajo como el P3.
+
 - **Mezclar monedas:** sumar el EMBI a la tasa de los TES, usar la prima de EE. UU. con los TES o dejar el Ke del camino B en dólares.
+- **Usar como tasa libre de riesgo** un promedio histórico, una tasa de corto plazo o la de una fecha distinta a la del cálculo (Fernández, 2021, p. 2).
+- **Un Ke menor que la tasa libre de riesgo** (p. 6).
 - **Usar el patrimonio en libros** para los pesos del WACC.
 - **Usar en el WACC un endeudamiento distinto** del de los datos de la empresa, por ejemplo una razón deuda/patrimonio «del sector» que no corresponde a la deuda que se resta o se reporta (Fernández, 2019d, p. 3).
 - **Usar la tasa cupón** de la deuda en lugar de la tasa actual.
 - **Estimar la beta con precios** en lugar de rendimientos, o reportar una beta absurda para el riesgo del negocio sin comentarla.
 - **Tomar la prima de un libro o de una serie histórica** en lugar de la encuesta (Fernández & Carabias, 2019, pp. 2–3).
+- **Sumar primas por tamaño, iliquidez o «riesgo específico»** sin fundamento (Fernández, 2021, pp. 10–11).
+- **Valorar una adquisición con la beta del comprador** en lugar de la del negocio que se compra (p. 4).
 - **Cifras sin fuente o tomadas de la IA:** toda cifra sale de una fuente verificable, con fecha o página.
 - **Calcular el WACC de un banco** como si fuera una empresa industrial.
 
@@ -222,6 +234,8 @@ Fernández, P. (2019b). El PER, la rentabilidad exigida y el crecimiento esperad
 Fernández, P. (2019c). Valoración de empresas por descuento de flujos: lo fundamental y las complicaciones innecesarias. En *Valoración de empresas y sensatez* (cap. 2). IESE Business School. https://ssrn.com/abstract=2089397
 
 Fernández, P. (2019d). WACC: definición, interpretaciones equivocadas y errores. En *Valoración de empresas y sensatez* (cap. 6). IESE Business School. https://ssrn.com/abstract=1633408
+
+Fernández, P. (2021). 210 errores en valoraciones de empresas. En *Valoración de empresas y sensatez* (cap. 16). IESE Business School. https://ssrn.com/abstract=3803995
 
 Fernández, P., & Carabias, J. M. (2019). Prima de riesgo del mercado: histórica, esperada, exigida e implícita. En *Valoración de empresas y sensatez* (cap. 7). IESE Business School. https://ssrn.com/abstract=897676
 
